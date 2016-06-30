@@ -1,0 +1,29 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jun 30 15:37:09 2016
+
+   Source : E:\Personal\Umbraco-Validation-Attributes\Umbraco-Validation-Attributes\bin\
+     Dest : E:\Personal\Umbraco-Validation-Attributes\Umbraco-Validation-Attributes\App_Data\NuGetBackup\20160630-153709\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	E:\Personal\Umbraco-Validation-Attributes\Umbraco-Validation-Attributes\bin\
+	  New Dir          0	E:\Personal\Umbraco-Validation-Attributes\Umbraco-Validation-Attributes\bin\Debug\
+	  New Dir          0	E:\Personal\Umbraco-Validation-Attributes\Umbraco-Validation-Attributes\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+   Ended : Thu Jun 30 15:37:09 2016
